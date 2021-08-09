@@ -1,0 +1,4 @@
+colorama
+SpeechRecognition
+pyttsx3
+requests
