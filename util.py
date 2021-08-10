@@ -15,4 +15,3 @@ def esp_trans(topic, target, text):
 			return x['trans']
 	else:
 		print("[Error; Ocurrió un error en la traducción].\n")
-		err_eng = "[Error; An error occurred in the translation]."
