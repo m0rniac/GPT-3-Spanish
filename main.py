@@ -98,5 +98,5 @@ while True:
 
     except speech_recognition.UnknownValueError:
         print(Back.BLACK + Fore.RED + Style.BRIGHT)
-        print("[Orson]: Sin comprensión a lo dicho.")
+        print("[GPT-3]: Sin comprensión a lo dicho.")
         recognizer = speech_recognition.Recognizer()
